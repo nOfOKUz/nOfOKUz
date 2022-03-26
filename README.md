@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**nOfOKUz/nOfOkUz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on CO2 detectors
 - 🌱 I’m currently learning Arduino prog
 - 👯 I’m looking to collaborate on Arduini WiFi, Arduino use of internet proxy, upload to Thingspeak.com
@@ -13,4 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: GitHub
 - 😄 Pronouns: He
 - ⚡ Fun fact: ... Am I ?
+
+<!--
+**nOfOKUz/nOfOkUz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 -->
